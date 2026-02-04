@@ -1,0 +1,16 @@
+# Artifacts
+dist/
+tmp/
+out-tsc/
+bazel-out/
+
+# Node modules
+node_modules/
+
+# IDEs and editors
+.vscode/
+.idea/
+
+# Operating System
+.DS_Store
+Thumbs.db
