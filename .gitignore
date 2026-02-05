@@ -4,6 +4,9 @@ tmp/
 out-tsc/
 bazel-out/
 
+# Local cache directory
+.angular/
+
 # Node modules
 node_modules/
 
